@@ -20,7 +20,7 @@ const greeting = {
   subTitle: emoji(
     "A dedicated Software Developer 🚀 experienced in building dynamic web applications using Java, Python, and JavaScript, with a keen interest in exploring cutting-edge technologies."
   ),
-  resumeLink: "https://drive.google.com/file/d/1-5lLZyDj7HkAdqPQsrHeIqlayNoQRo7w/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/1-5lLZyDj7HkAdqPQsrHeIqlayNoQRo7w/view?usp=sharing&export=download",
   displayGreeting: true,
 };
 
