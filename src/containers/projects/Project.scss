@@ -15,6 +15,13 @@
   gap: 1rem 1rem;
 }
 
+.project-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
 /* Media Query */
 @media (max-width: 1380px) {
   .project-title {
