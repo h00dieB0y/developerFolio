@@ -25,7 +25,7 @@ const greeting = {
 };
 
 const socialMediaLinks = {
-  github: "https://github.com/h00dieB0y",
+  github: "https://github.com/hoddieBoy",
   linkedin: "https://www.linkedin.com/in/mkitsoukou/",
   gmail: "emilemannekitsoukou@gmail.com",
   display: true,
@@ -156,15 +156,21 @@ const bigProjects = {
       ],
     },
     {
-      projectName: "Task & Parking Management System",
+      projectName: "Meteo Airports",
       projectDesc:
-        "Built a task and parking management system to prevent duplicates and optimize resource allocation.",
+        "Built an airport weather station simulator in Go, using MQTT and InfluxDB for real-time data handling. Worked collaboratively to showcase skills in API design and Docker deployment.",
       footerLink: [
         {
           name: "View Project",
-          url: "https://github.com/h00dieB0y/Task-Parking-System",
+          url: "https://github.com/hoddieBoy/imt-2023-go-project-ZEBIAN-KITSOUKOU-MILLION-LEBRAS-ACHEK",
         },
       ],
+    },
+    {
+      projectName: "Task & Parking Management System",
+      projectDesc:
+        "Built a task and parking management system to prevent duplicates and optimize resource allocation for KNP LABS.",
+      footerLink: [],
     },
   ],
   display: true,
@@ -201,12 +207,12 @@ const blogSection = {
         "An in-depth exploration of how genetic algorithms can be leveraged to solve complex software engineering problems.",
     },
   ],
-  display: true,
+  display: false,
 };
 
 const openSource = {
-  githubUserName: "h00dieB0y",
-  display: false,
+  showGithubProfile: "true",
+  display: true,
 };
 
 const talkSection = {
