@@ -25,7 +25,7 @@ const greeting = {
 };
 
 const socialMediaLinks = {
-  github: "https://github.com/hoddieBoy",
+  github: "https://github.com/h00dieB0y",
   linkedin: "https://www.linkedin.com/in/mkitsoukou/",
   gmail: "emilemannekitsoukou@gmail.com",
   display: true,
@@ -162,7 +162,7 @@ const bigProjects = {
       footerLink: [
         {
           name: "View Project",
-          url: "https://github.com/hoddieBoy/imt-2023-go-project-ZEBIAN-KITSOUKOU-MILLION-LEBRAS-ACHEK",
+          url: "https://github.com/h00dieB0y/imt-2023-go-project-ZEBIAN-KITSOUKOU-MILLION-LEBRAS-ACHEK",
         },
       ],
     },

@@ -50,10 +50,10 @@ export default function Projects() {
           <h1 className="project-title">Open Source Projects</h1>
           <picture>
             <source
-              srcset="https://github-readme-stats.vercel.app/api?username=hoddieBoy&show_icons=true"
+              srcset="https://github-readme-stats.vercel.app/api?username=h00dieB0y&show_icons=true&theme=transparent"
               media={isDark ? "(prefers-color-scheme: dark)" : "(prefers-color-scheme: light)"}
             />
-            <img src="https://github-readme-stats.vercel.app/api?username=hoddieBoy&show_icons=true&theme=transparent" />
+            <img src="https://github-readme-stats.vercel.app/api?username=h00dieB0y&show_icons=true&theme=transparent" />
           </picture>
           </div>
           <div className="repo-cards-div-main">
